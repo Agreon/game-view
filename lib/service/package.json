@@ -21,7 +21,7 @@
         "io-ts": "^2.2.21",
         "io-ts-types": "^0.5.19",
         "ioredis": "^5.4.1",
-        "pino": "^9.4.0",
+        "pino": "^9.5.0",
         "pino-pretty": "^11.2.2"
     },
     "peerDependencies": {
