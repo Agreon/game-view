@@ -17,7 +17,7 @@
     "@game-watch/shared": "workspace:*",
     "@hookform/resolvers": "^3.9.0",
     "axios": "^0.27.2",
-    "chakra-react-select": "^4.9.2",
+    "chakra-react-select": "^5.0.2",
     "class-transformer": "^0.5.1",
     "dayjs": "^1.11.13",
     "framer-motion": "^11.5.4",
